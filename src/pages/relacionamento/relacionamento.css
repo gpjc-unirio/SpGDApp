@@ -1,0 +1,21 @@
+/*.adicionar-ideia{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}*/
+
+.infos-elementos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.select-secaogdd{
+    width: 500px;
+}
+/*
+.bt-incluir-ideia{
+    margin-top: 65px;
+    margin-right: 300px;
+}*/
+

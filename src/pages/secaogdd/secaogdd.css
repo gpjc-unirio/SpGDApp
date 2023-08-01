@@ -1,0 +1,20 @@
+.nova-secao{
+    display: flex;
+    flex-direction: column;
+}
+
+.secoes-gdd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.secao{
+    width: 400px
+}
+
+.bt-adicionar-secao, .bt-excluir-secao{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}

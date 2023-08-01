@@ -1,0 +1,73 @@
+/*.proprietario {
+    float: left;
+}
+
+.criacao {
+    float: right;
+    margin-right: 1100px;
+}*/
+
+.display-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;    
+}
+
+.tabela-usuarios {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;    
+}
+
+.display-form-usuario{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-add-user {
+    width: 300px;
+}
+
+.add-user {
+    float: right;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: -220px;
+}
+
+.div-novo-user {
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-etapas {
+    border-radius: 4px;
+    width: 250px;
+    box-shadow: 0px 2px 8px 0px #D8D8D8;
+    background-color: white;
+    padding: 24px 16px;
+}
+
+.card-top {
+    text-align: center;
+}
+
+
+
+
+.etapas-disponiveis {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.descricao {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}

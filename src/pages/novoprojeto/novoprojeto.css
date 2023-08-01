@@ -1,0 +1,11 @@
+.div-gravar-projeto{
+    float: left;
+    margin-left: 550px;
+    width: 100px;
+}
+
+.div-cancelar-projeto{
+    float: right;
+    margin-right: 550px;
+    width: 100px;
+}

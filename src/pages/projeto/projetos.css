@@ -1,0 +1,73 @@
+.perfil{
+    float: left;
+    margin-right: 50px;
+}
+
+.sair{
+    float: right;
+    margin-right: 20px;
+}
+
+.nome-usuario{
+    float: right;
+    margin-top: 0px;
+}
+
+.div-novo-projeto{
+    margin: 0 auto;
+    width: 100px;
+}
+
+.div-excluir{
+    float: right;
+    margin-left: 650px;
+    width: 100px;
+}
+
+.bt-projetos{
+    border-radius: 4px;
+  background-color: #666BD0;
+  color:#F7F7F7;
+  height: 48px;
+  font-weight: bold;
+}
+
+.bt-projetos:hover{
+    background-color: #4045a7;
+    color:#F7F7F7;  
+  }
+  
+  .table{
+    text-align: center;
+  }
+
+  .bloco2{
+    display: flex;
+    justify-content: center;
+  }
+
+  /*.tabela {
+    float: right;
+    margin-right: 450px;
+    margin-top: -95px;
+}
+
+.form-add-user {
+    width: 300px;
+}
+
+.add-user {
+    float: right;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: -220px;
+}
+
+.div-novo-user {
+    margin-top: 20px;
+    margin-left: 100px;
+}*/
+
+
+
+

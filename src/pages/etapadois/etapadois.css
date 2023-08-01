@@ -1,0 +1,16 @@
+/*.tabelas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+*/
+.bt-relacionamento {
+    float: right;
+    margin-right: 150px;
+    justify-content: space-between;
+}
+
+.bt-concluir {
+    display: flex;
+    justify-content: space-around;
+}

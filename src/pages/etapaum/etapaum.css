@@ -1,0 +1,23 @@
+.form-busca{
+    width: 300px;
+}
+
+.bt-busca{
+    margin-left: 10px;
+}
+
+.busca{
+    display: flex;
+    flex-direction: row;
+}
+
+.bt-etapa1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.tabela-questoes{
+    align-items: center;
+}

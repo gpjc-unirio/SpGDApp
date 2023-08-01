@@ -1,0 +1,11 @@
+.resposta{
+    width: 900px;
+}
+
+
+
+.bt-adicionar-resposta{
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+}
